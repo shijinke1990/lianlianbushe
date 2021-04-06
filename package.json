@@ -1,0 +1,19 @@
+{
+  "name": "lianlianbushe",
+  "version": "1.0.0",
+  "description": "施锦科的个人网站",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shijinke1990/lianlianbushe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shijinke1990/lianlianbushe/issues"
+  },
+  "homepage": "https://github.com/shijinke1990/lianlianbushe#readme"
+}
